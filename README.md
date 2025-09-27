@@ -1,4 +1,4 @@
-# text_summarizer
+# Text_summarizer
 
 This is a text sumarizer application built
 
